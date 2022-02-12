@@ -15,5 +15,5 @@ application by trigging automatic requests using Internal Protocol (IP) address.
 
 Model Diagram.
 <p align ="center">
-<img src="https://user-images.githubusercontent.com/51705706/137016160-58d37139-0cf7-4a68-b13f-c67083a8394e.jpg" width="2300" height="2300">
+<img src="https://user-images.githubusercontent.com/51705706/137016160-58d37139-0cf7-4a68-b13f-c67083a8394e.jpg" width="300" height="300">
 </p>
