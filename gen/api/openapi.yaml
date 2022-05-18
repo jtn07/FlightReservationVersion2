@@ -1,0 +1,57 @@
+openapi: 3.0.3
+info:
+  description: flightReservationVersion2 API
+  title: flightReservationVersion2 API
+  version: 1.0.0
+servers:
+- url: https://flightReservationVersion2
+paths:
+  /admin/showAddFlight: {}
+  /completeReservation:
+    post:
+      operationId: completeReservation
+      responses:
+        "200":
+          description: OK
+      summary: POST completeReservation
+      x-accepts: application/json
+  /findFlights: {}
+  /login:
+    post:
+      operationId: login
+      parameters:
+      - explode: true
+        in: query
+        name: email
+        required: true
+        schema:
+          type: string
+        style: form
+      - explode: true
+        in: query
+        name: password
+        required: true
+        schema:
+          type: string
+        style: form
+      responses:
+        "200":
+          description: OK
+      summary: POST login
+      x-accepts: application/json
+  /registerUser:
+    post:
+      operationId: register
+      responses:
+        "200":
+          description: OK
+      summary: POST registerUser
+      x-accepts: application/json
+  /reservations: {}
+  /reservations/{id}: {}
+  /showCompleteReservation: {}
+  /showLogin: {}
+  /showReg: {}
+components:
+  schemas: {}
+
