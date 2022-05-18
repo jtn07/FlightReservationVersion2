@@ -1,13 +1,11 @@
-package com.bharath.flightreservation.entities;
+package com.jatin.flightReservationVersion2.entities;
 
 import java.util.Set;
 
-import javax.persistence.Entity;
-import javax.persistence.JoinColumn;
-import javax.persistence.JoinTable;
-import javax.persistence.ManyToMany;
+import javax.persistence.*;
 
 @Entity
+@Table(name ="User_Table")
 public class User extends AbstractEntity {
 
 	private String firstName;

@@ -1,4 +1,4 @@
-package com.bharath.flightreservation.services;
+package com.jatin.flightReservationVersion2.services;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -7,15 +7,15 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.bharath.flightreservation.dto.ReservationRequest;
-import com.bharath.flightreservation.entities.Flight;
-import com.bharath.flightreservation.entities.Passenger;
-import com.bharath.flightreservation.entities.Reservation;
-import com.bharath.flightreservation.repos.FlightRepository;
-import com.bharath.flightreservation.repos.PassengerRepository;
-import com.bharath.flightreservation.repos.ReservationRepository;
-import com.bharath.flightreservation.util.EmailUtil;
-import com.bharath.flightreservation.util.PDFGenerator;
+import com.jatin.flightReservationVersion2.dto.ReservationRequest;
+import com.jatin.flightReservationVersion2.entities.Flight;
+import com.jatin.flightReservationVersion2.entities.Passenger;
+import com.jatin.flightReservationVersion2.entities.Reservation;
+import com.jatin.flightReservationVersion2.repos.FlightRepository;
+import com.jatin.flightReservationVersion2.repos.PassengerRepository;
+import com.jatin.flightReservationVersion2.repos.ReservationRepository;
+import com.jatin.flightReservationVersion2.util.EmailUtil;
+import com.jatin.flightReservationVersion2.util.PDFGenerator;
 
 @Service
 public class ReservationServiceImpl implements ReservationService {

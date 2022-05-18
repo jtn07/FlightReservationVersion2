@@ -1,4 +1,4 @@
-package com.bharath.flightreservation.dto;
+package com.jatin.flightReservationVersion2.dto;
 
 public class ReservationRequest {
 

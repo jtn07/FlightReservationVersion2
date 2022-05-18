@@ -1,7 +1,7 @@
-package com.bharath.flightreservation.services;
+package com.jatin.flightReservationVersion2.services;
 
-import com.bharath.flightreservation.dto.ReservationRequest;
-import com.bharath.flightreservation.entities.Reservation;
+import com.jatin.flightReservationVersion2.dto.ReservationRequest;
+import com.jatin.flightReservationVersion2.entities.Reservation;
 
 public interface ReservationService {
 	

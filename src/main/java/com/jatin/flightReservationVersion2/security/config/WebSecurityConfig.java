@@ -1,4 +1,4 @@
-package com.bharath.flightreservation.security.config;
+package com.jatin.flightReservationVersion2.security.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

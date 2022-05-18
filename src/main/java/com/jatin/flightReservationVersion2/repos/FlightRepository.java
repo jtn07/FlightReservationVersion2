@@ -1,13 +1,12 @@
-package com.bharath.flightreservation.repos;
+package com.jatin.flightReservationVersion2.repos;
 
 import java.util.Date;
 import java.util.List;
 
+import com.jatin.flightReservationVersion2.entities.Flight;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
-
-import com.bharath.flightreservation.entities.Flight;
 
 public interface FlightRepository extends JpaRepository<Flight, Long> {
 

@@ -1,4 +1,4 @@
-package com.bharath.flightreservation.util;
+package com.jatin.flightReservationVersion2.util;
 
 import java.io.File;
 
@@ -15,10 +15,10 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class EmailUtil {
-	@Value("${com.bharath.flightreservation.itinerary.email.body}")
+	@Value("${com.jatin.flightreservation.itinerary.email.body}")
 	private String EMAIL_BODY = "Please find your Itinerary attached.";
 
-	@Value("${com.bharath.flightreservation.itinerary.email.subject}")
+	@Value("${com.jatin.flightreservation.itinerary.email.subject}")
 	private String EMAIL_SUBJECT = "Itinerary for your Flight";
 
 	private static final Logger LOGGER = LoggerFactory.getLogger(EmailUtil.class);

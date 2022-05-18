@@ -1,8 +1,10 @@
-package com.bharath.flightreservation.entities;
+package com.jatin.flightReservationVersion2.entities;
 
 import javax.persistence.Entity;
+import javax.persistence.Table;
 
 @Entity
+@Table
 public class Passenger extends AbstractEntity{
 	
 	private String firstName;

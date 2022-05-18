@@ -1,13 +1,13 @@
-package com.bharath.flightreservation.util;
+package com.jatin.flightReservationVersion2.util;
 
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 
+import com.jatin.flightReservationVersion2.entities.Reservation;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
 
-import com.bharath.flightreservation.entities.Reservation;
 import com.itextpdf.text.Document;
 import com.itextpdf.text.DocumentException;
 import com.itextpdf.text.Phrase;

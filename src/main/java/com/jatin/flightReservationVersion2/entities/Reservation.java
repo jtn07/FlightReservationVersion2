@@ -1,9 +1,11 @@
-package com.bharath.flightreservation.entities;
+package com.jatin.flightReservationVersion2.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.OneToOne;
+import javax.persistence.Table;
 
 @Entity
+@Table
 public class Reservation extends AbstractEntity{
 	private Boolean checkedIn;
 	private int numberOfBags;

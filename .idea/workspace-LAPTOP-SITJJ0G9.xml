@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e80d819f-7b47-443c-9c56-8f28f515be70" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/controllers/FlightController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/controllers/FlightController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/controllers/ReservationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/controllers/ReservationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/controllers/ReservationRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/controllers/ReservationRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/controllers/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/dto/ReservationRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/dto/ReservationRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/dto/ReservationUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/dto/ReservationUpdateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/entities/AbstractEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/entities/AbstractEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/entities/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/entities/Flight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/entities/Passenger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/entities/Passenger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/entities/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/entities/Reservation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/entities/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/entities/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/entities/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/flightResesrvationVersion2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/FlightreservationApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/repos/FlightRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/repos/FlightRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/repos/PassengerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/repos/PassengerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/repos/ReservationRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/repos/ReservationRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/repos/RoleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/repos/RoleRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/repos/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/repos/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/security/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/security/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/services/ReservationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/services/ReservationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/services/ReservationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/services/ReservationServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/services/SecurityService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/services/SecurityService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/services/SecurityServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/services/SecurityServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/services/UserDetailsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/services/UserDetailsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/util/EmailUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/util/EmailUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/util/PDFGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jatin/flightReservationVersion2/util/PDFGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/jatin/flightreservation/FlightreservationApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="250RAro139Xn4gwqgqin7QTYMEL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/jatin" />
+    <property name="last_opened_file_path" value="$USER_HOME$/FlightBooking" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.jatin.flightreservation" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="FlightreservationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="flightreservation" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jatin.flightReservationVersion2.FlightreservationApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e80d819f-7b47-443c-9c56-8f28f515be70" name="Changes" comment="" />
+      <created>1644661878567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644661878567</updated>
+      <workItem from="1644661879745" duration="1575000" />
+      <workItem from="1652064394263" duration="2660000" />
+      <workItem from="1652081367264" duration="10232000" />
+      <workItem from="1652115007017" duration="1393000" />
+      <workItem from="1652151076933" duration="14000" />
+      <workItem from="1652159055626" duration="602000" />
+      <workItem from="1652171325212" duration="2172000" />
+      <workItem from="1652803767653" duration="937000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

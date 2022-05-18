@@ -1,4 +1,4 @@
-package com.bharath.flightreservation.entities;
+package com.jatin.flightReservationVersion2.entities;
 
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;

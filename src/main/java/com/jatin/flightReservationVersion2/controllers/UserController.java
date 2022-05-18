@@ -1,4 +1,4 @@
-package com.bharath.flightreservation.controllers;
+package com.jatin.flightReservationVersion2.controllers;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -11,9 +11,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.bharath.flightreservation.entities.User;
-import com.bharath.flightreservation.repos.UserRepository;
-import com.bharath.flightreservation.services.SecurityService;
+import com.jatin.flightReservationVersion2.entities.User;
+import com.jatin.flightReservationVersion2.repos.UserRepository;
+import com.jatin.flightReservationVersion2.services.SecurityService;
 
 @Controller
 public class UserController {

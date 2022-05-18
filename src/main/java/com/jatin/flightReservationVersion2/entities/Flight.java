@@ -1,11 +1,13 @@
-package com.bharath.flightreservation.entities;
+package com.jatin.flightReservationVersion2.entities;
 
 import java.sql.Timestamp;
 import java.util.Date;
 
 import javax.persistence.Entity;
+import javax.persistence.Table;
 
 @Entity
+@Table
 public class Flight extends AbstractEntity{
 	
 	private String flightNumber;

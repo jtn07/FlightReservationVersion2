@@ -1,4 +1,4 @@
-package com.jatin.flightreservation.controllers;
+package com.jatin.flightReservationVersion2.controllers;
 
 import java.util.Date;
 import java.util.List;
@@ -12,8 +12,8 @@ import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.bharath.flightreservation.entities.Flight;
-import com.bharath.flightreservation.repos.FlightRepository;
+import com.jatin.flightReservationVersion2.entities.Flight;
+import com.jatin.flightReservationVersion2.repos.FlightRepository;
 
 @Controller
 public class FlightController {
